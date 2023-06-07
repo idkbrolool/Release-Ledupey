@@ -177,7 +177,7 @@ class GitHubSearchGUI:
             repo_name = repo_input
 
         # Create a Github instance using an access token
-        token = "Relace with your own key"
+        token = "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"
         g = Github(token)
 
         try:
